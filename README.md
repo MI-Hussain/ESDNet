@@ -1,2 +1,2 @@
-FABLNet Find a better lane for Autonomous Driving Using Deep Neural Network
+ESDNet: An Encoder-Sequencer-Decoder Network for Lane Detection to Facilitate Autonomous Driving
 Paper Under Revision
